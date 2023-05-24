@@ -1,0 +1,584 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1669267265828428, "dur":915, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267265829348, "dur":61, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1669267265829435, "dur":11, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1669267265829446, "dur":413, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1669267265829877, "dur":484, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267265830361, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266450386, "dur":151, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266450537, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266450556, "dur":65, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266450621, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266450630, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266450631, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266450639, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266450640, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266450646, "dur":6697, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266457343, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266457356, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266457359, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266457366, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266457367, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266457373, "dur":5028, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462402, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462418, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462420, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462427, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462428, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462435, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462436, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462443, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462444, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462450, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462452, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462459, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462460, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462467, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462468, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462474, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462476, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462483, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462496, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266462523, "dur":1677, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1669267265829963, "dur":403, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265830367, "dur":3814, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265834191, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669267265834192, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265834278, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669267265834282, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265834846, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669267265836466, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1669267265836528, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265836853, "dur":750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1669267265837638, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267265837716, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265837886, "dur":1203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267265839448, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask.exe" }}
+,{ "pid":12345, "tid":1, "ts":1669267265839531, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265839534, "dur":67180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask.exe" }}
+,{ "pid":12345, "tid":1, "ts":1669267265906767, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267265906823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265906828, "dur":19189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267265926146, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267265926197, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265926202, "dur":30361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267265956613, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267265956677, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265956681, "dur":37067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267265993783, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267265993823, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267265993827, "dur":9861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267266003732, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267266003773, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267266003780, "dur":81293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267266085111, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267266085146, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669267266085151, "dur":141758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669267266226954, "dur":223454, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267265829997, "dur":376, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267265830373, "dur":3820, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267265834193, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1669267265834365, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267265843454, "dur":64069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1669267265907566, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267265907610, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267265907614, "dur":67174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267265974849, "dur":452, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267265975304, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267265975308, "dur":33679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267266009078, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267266009145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267266009151, "dur":19541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267266028726, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267266028764, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267266028769, "dur":47793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267266076599, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267266076638, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267266076642, "dur":68759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267266145442, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267266145480, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669267266145488, "dur":83374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669267266228900, "dur":221505, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267265829990, "dur":379, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267265830369, "dur":3831, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267265834200, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1669267265834371, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267265846723, "dur":59618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1669267265906382, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267265906424, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267265906428, "dur":28833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267265935299, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267265935336, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267265935340, "dur":39646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267265975018, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267265975050, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267265975055, "dur":32161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266007265, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266007316, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267266007326, "dur":41869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266049229, "dur":3948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266053180, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267266053202, "dur":724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266053959, "dur":1431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266055393, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267266055398, "dur":1410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266056844, "dur":30509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266087356, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267266087362, "dur":1621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266089024, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266089062, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267266089067, "dur":76902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266166010, "dur":69094, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/LeapMotion.LeapCSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266235110, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669267266235117, "dur":832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/LeapMotion.LeapCSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669267266235982, "dur":214420, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267265830015, "dur":362, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267265830377, "dur":3809, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267265834191, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1669267265834343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267265840353, "dur":74242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1669267265914677, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267265914725, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267265914731, "dur":19189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267265933956, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267265933997, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267265934002, "dur":22060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267265956096, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267265956148, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267265956153, "dur":14907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267265971094, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267265971134, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267265971140, "dur":24359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267265995582, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267265995627, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267265995633, "dur":41721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267266037387, "dur":34889, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267266072279, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267266072285, "dur":858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267266073174, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267266073226, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669267266073229, "dur":162736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669267266235998, "dur":214399, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669267265830031, "dur":349, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669267265830380, "dur":3807, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669267265834196, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1669267265834381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669267265848867, "dur":57876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1669267265906786, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267265906826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669267265906830, "dur":18787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267265925656, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267265925698, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669267265925704, "dur":30763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267265956500, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267265956536, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669267265956540, "dur":32944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267265989520, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267265989617, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669267265989623, "dur":127373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267266117029, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267266117064, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669267266117068, "dur":206159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669267266323265, "dur":127123, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267265830056, "dur":328, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267265830384, "dur":3801, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267265834191, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1669267265834321, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267265837943, "dur":898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1669267265838892, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267265838974, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267265838977, "dur":67520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267265906547, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267265906597, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267265906601, "dur":72582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267265979218, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267265979256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267265979261, "dur":13617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267265992917, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267265992956, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267265992963, "dur":16200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267266009204, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267266009246, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267266009250, "dur":52785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267266062074, "dur":5509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267266067588, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267266067596, "dur":4555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267266072183, "dur":60319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Ultraleap.Tracking.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267266132505, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267266132510, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Ultraleap.Tracking.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267266134075, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267266134112, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669267266134116, "dur":87144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669267266221298, "dur":229113, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267265830075, "dur":312, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267265830387, "dur":3807, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267265834194, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1669267265834348, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267265839681, "dur":959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1669267265840688, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267265840785, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267265840830, "dur":65664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267265906548, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267265906600, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267265906700, "dur":48436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267265955375, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267265955429, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267265955433, "dur":24002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267265979469, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267265979523, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267265979528, "dur":31457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267266011025, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267266011065, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267266011069, "dur":10422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267266021523, "dur":62369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267266083897, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267266083905, "dur":1554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267266085495, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267266085531, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267266085534, "dur":73005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267266158573, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267266158609, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669267266158615, "dur":291695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669267266450342, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":7, "ts":1669267266450343, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267265830093, "dur":297, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267265830390, "dur":3805, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267265834195, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1669267265834326, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267265838806, "dur":1269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1669267265840124, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267265840168, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267265840398, "dur":66135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267265906573, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267265906648, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267265906653, "dur":27081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267265933773, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267265933808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267265933814, "dur":21435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267265955285, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267265955340, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267265955345, "dur":19214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267265974600, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267265974639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267265974645, "dur":35379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267266010060, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267266010104, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266010108, "dur":62237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267266072385, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267266072444, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266072448, "dur":74616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267266147104, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267266147145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266147150, "dur":45987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267266193171, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Plugins/x86_64/LeapC.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267266193214, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266193665, "dur":7455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Plugins/x86_64/LeapC.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669267266201174, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":8, "ts":1669267266201306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266201499, "dur":656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":8, "ts":1669267266202187, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266202220, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266202224, "dur":666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266202922, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266202959, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266202962, "dur":804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266203802, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266203842, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266203846, "dur":796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266204707, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266204747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266204751, "dur":772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266205562, "dur":627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1669267266206191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266206195, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1669267266207113, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266207198, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266207202, "dur":943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266208176, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/level3" }}
+,{ "pid":12345, "tid":8, "ts":1669267266208209, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266208212, "dur":652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/level3" }}
+,{ "pid":12345, "tid":8, "ts":1669267266208895, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1669267266208928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266208932, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/level2" }}
+,{ "pid":12345, "tid":8, "ts":1669267266209776, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1669267266209813, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266209817, "dur":988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1669267266210849, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1669267266210891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266210895, "dur":901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1669267266211831, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266211873, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266211876, "dur":849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1669267266212756, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1669267266212876, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669267266212880, "dur":698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1669267266213609, "dur":236774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267265830108, "dur":285, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267265830393, "dur":3803, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267265834197, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1669267265834368, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267265846357, "dur":59746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1669267265906156, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267265906212, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267265906216, "dur":48505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267265954763, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267265954804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267265954811, "dur":45534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267266000378, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267266000414, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267266000418, "dur":12963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267266013417, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267266013457, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267266013482, "dur":93597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267266107114, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267266107150, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267266107155, "dur":28025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267266135225, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267266135268, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669267266135272, "dur":90904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669267266226210, "dur":224204, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669267265830130, "dur":266, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669267265830396, "dur":3846, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669267265834242, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1669267265834384, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669267265851922, "dur":54568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1669267265906538, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669267265906587, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669267265906591, "dur":20489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669267265927116, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669267265927154, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669267265927159, "dur":92287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669267266019498, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669267266019545, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669267266019554, "dur":15867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669267266035459, "dur":178998, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669267266214460, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669267266214466, "dur":989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669267266215487, "dur":234897, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265830146, "dur":254, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265830400, "dur":3797, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265834197, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1669267265834361, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265840026, "dur":66359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1669267265906428, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265906470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265906474, "dur":27703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265934216, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265934254, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265934258, "dur":24341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265958634, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265958669, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265958674, "dur":9457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265968168, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265968206, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265968212, "dur":9028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265977273, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265977314, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265977319, "dur":12384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265989745, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267265989787, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267265989791, "dur":10474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266000312, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266000358, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266000362, "dur":12542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266012938, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266012975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266012980, "dur":24266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266037286, "dur":442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266037730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266037735, "dur":650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266038417, "dur":38191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266076611, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266076616, "dur":725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266077373, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266077415, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266077419, "dur":123588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266201045, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Plugins/x86_64/UltraleapOpenXRUnity.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266201114, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266201236, "dur":801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Plugins/x86_64/UltraleapOpenXRUnity.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669267266202077, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1669267266202119, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266202161, "dur":884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1669267266203084, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266203126, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266203130, "dur":1057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266204222, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266204271, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266204275, "dur":800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266205111, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1669267266205230, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266205234, "dur":764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1669267266206036, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266206079, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266206082, "dur":1752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266207876, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/level3.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266207921, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266207925, "dur":856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/level3.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266208821, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/level2.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266208861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266208865, "dur":863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/level2.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266209760, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266209795, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266209798, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266210834, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266210874, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266210878, "dur":978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1669267266211891, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1669267266211934, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669267266211938, "dur":884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1669267266212857, "dur":237527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267265830162, "dur":241, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267265830403, "dur":3803, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267265834206, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1669267265834382, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267265849443, "dur":57527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1669267265907010, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267265907048, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267265907052, "dur":40629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267265947715, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267265947750, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267265947755, "dur":42651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267265990438, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267265990479, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267265990484, "dur":9659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266000177, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266000213, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267266000218, "dur":20847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266021100, "dur":76776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266097881, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267266097888, "dur":1003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266098923, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266098960, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267266098965, "dur":32076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266131079, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266131115, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267266131121, "dur":29408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266160570, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266160612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669267266160618, "dur":212606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669267266373252, "dur":77134, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267265830175, "dur":231, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267265830406, "dur":3793, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267265834200, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1669267265834365, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267265843900, "dur":62478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1669267265906427, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267265906476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267265906482, "dur":39409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267265945935, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267265945980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267265945986, "dur":40781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267265986822, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267265986865, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267265986873, "dur":48625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267266035536, "dur":572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267266036111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267266036117, "dur":727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267266037000, "dur":32362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267266069367, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267266069376, "dur":2694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267266072107, "dur":42032, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Ultraleap.Tracking.Hands.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267266114144, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267266114152, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Ultraleap.Tracking.Hands.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267266115181, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267266115215, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669267266115219, "dur":183392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669267266298659, "dur":151736, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267265830195, "dur":214, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267265830409, "dur":3781, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267265834191, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1669267265834323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267265838125, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1669267265839126, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1669267265839213, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267265839216, "dur":66402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1669267265905679, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267265905734, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267265905739, "dur":21951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267265927728, "dur":102847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267266030578, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267266030584, "dur":873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267266031490, "dur":71918, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267266103412, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267266103418, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267266104301, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267266104338, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267266104342, "dur":85466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267266189850, "dur":105747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267266296631, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669267266296639, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669267266297539, "dur":152852, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267265830216, "dur":196, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267265830412, "dur":3780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267265834194, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1669267265834315, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267265837486, "dur":721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1669267265838246, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267265838329, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267265838404, "dur":67755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267265906211, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267265906256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267265906261, "dur":28017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267265934312, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267265934351, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267265934355, "dur":74198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267266008600, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267266008655, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267266008661, "dur":11910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267266020606, "dur":42381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267266062991, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267266062999, "dur":5409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267266068451, "dur":64849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Ultraleap.Tracking.InteractionEngine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267266133303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267266133309, "dur":1202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Ultraleap.Tracking.InteractionEngine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267266134546, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267266134586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669267266134590, "dur":84017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669267266218639, "dur":231784, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265830240, "dur":174, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265830414, "dur":3774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265834191, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1669267265834311, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265835457, "dur":982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1669267265836477, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1669267265836538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265836681, "dur":723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1669267265837448, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1669267265837511, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265837548, "dur":1931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1669267265839521, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1669267265839716, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265840069, "dur":69163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1669267265909271, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267265909306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265909311, "dur":55657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267265965003, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267265965043, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265965050, "dur":10198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267265975290, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267265975330, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265975334, "dur":22687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267265998058, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267265998097, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267265998103, "dur":16216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266014354, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266014392, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267266014396, "dur":23484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266037915, "dur":8489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266046409, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267266046418, "dur":1298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266047754, "dur":3434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266051192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267266051199, "dur":1014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266052247, "dur":17364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266069614, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267266069619, "dur":5743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266075401, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266075440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267266075445, "dur":51012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266126494, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266126530, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669267266126536, "dur":162938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/frank/Desktop/Temp/RotationTask_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669267266289511, "dur":160889, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669267266465752, "dur":1894, "ph":"X", "name": "ProfilerWriteOutput" }
+,
